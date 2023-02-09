@@ -1,7 +1,7 @@
 # Alura_PythonCollections
 Repositório dedicado aos exercícios feitos durantes os cursos da alura de Python Collections.
 
-_Desenvolve 2023 - trilha dados_
+_Grupo Boticátio - Desenvolve 2023 - trilha dados_
 
 ## Python Collections Parte 1: listas e tuplas:
 https://www.alura.com.br/curso-online-python-collections-listas-e-tuplas
